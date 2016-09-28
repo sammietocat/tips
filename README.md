@@ -1,0 +1,1 @@
+# This is a repository for tips summarized based on my personal programming experience during daily development.

@@ -7,12 +7,12 @@ The steps go as
 ![add repository](images/update-gcc/add-repo.png)  
 2. install gcc 6
 ```
-  sudo apt-get install gcc-6
+  sudo apt install gcc-6
 ```
 ![install gcc](images/update-gcc/install-gcc.png)  
 3. install g++ 6
 ```
-  sudo apt-get install g++-6
+  sudo apt install g++-6
 ```
 ![install gcc](images/update-gcc/install-g++.png)  
 4. update the corresponding alternative commands for default gcc and g++

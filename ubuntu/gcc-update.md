@@ -1,5 +1,5 @@
 ## This is a tips for update gcc/g++ to newer version(6.2) in ubuntu 16.04
-The steps go as 
+The steps go as  
 1. add the repository
 ```
   sudo apt-add-repository ppa:ubuntu-toolchain-r/test
